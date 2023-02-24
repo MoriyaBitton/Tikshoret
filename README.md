@@ -1,6 +1,6 @@
 # Tikshoret Tasks
 
-###### Ariel University, Israel || Semester B 2021
+###### Ariel University, Israel || Semester B, 2021
 
 * Ex3 
 * Ex4 
